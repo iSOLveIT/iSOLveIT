@@ -1,4 +1,4 @@
-![Brand logo](brand.png)
+![Brand logo](logo_banner.png)
 
 
 ### Hello there 👋 :octocat: 👋 :smile: 
