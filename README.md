@@ -1,4 +1,4 @@
-![Brand logo](iSOLveIT/iSOLveIT/logo_banner.jpg)
+![Brand logo](https://github.com/iSOLveIT/iSOLveIT/blob/master/logo_banner.jpg)
 
 
 ### Hello there 👋 :octocat: 👋 :smile: 
