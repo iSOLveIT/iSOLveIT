@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋 👋 :octocat:
 
-<!--
-**iSOLveIT/iSOLveIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* I'm __Randy__. I am a _fullstack developer_ who is passionate about designing and developing applications to help the client realize a positive difference and make their life simple.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I also enjoy reading tech blogs and enjoy sharing my knowledge with other developers or non-developer.
+
+* 🔭 I’m currently working on a blog site for a friend.
+
+* 🤔 I’m looking for help with landing my first paid dev job.
+
+* 📫 To know more abput the work I do, visit my [portfolio site](https://isolveit.herokuapp.com/) 
+
