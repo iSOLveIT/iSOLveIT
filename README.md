@@ -8,5 +8,5 @@
 
 🔭 I’m currently working on a blog site for a friend. 🤔 I’m looking for help with landing my first paid dev job.
 
-📫 To know more abput the work I do, visit my [:link: portfolio site](https://isolveit.herokuapp.com/) 
+📫 To know more abput the work I do, visit my [:link: portfolio site](https://isolveit.herokuapp.com/) or my [:link: LinkedIn profile](https://www.linkedin.com/in/randy-duodu-isolveit/)
 
