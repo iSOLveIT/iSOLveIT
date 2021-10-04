@@ -12,5 +12,5 @@ I am passionate about learning new things and sharing ideas with both engineers 
 
 I appreciate a company environment that supports workers, creates room for innovation, and encourages teamwork.
 
-📫 To know more abput the work I do, visit my [:link: portfolio site](https://isolveit.herokuapp.com/) or my [:link: LinkedIn profile](https://www.linkedin.com/in/randy-duodu/)
+📫 To know more about the work I do, visit my [:link: portfolio site](https://isolveit.herokuapp.com/) or my [:link: LinkedIn profile](https://www.linkedin.com/in/randy-duodu/)
 
